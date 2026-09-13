@@ -41,7 +41,7 @@ This project helped me build practical experience in:
 
 ## Dashboard Preview
 
-![Sales Analytics Dashboard](Sales_Analatics.png)
+![Sales Analytics Dashboard]([Sales_Analatics.png](https://github.com/hagardaihom/Sales_Dashboard_Excel/blob/main/Sales%20Analatics.png))
 
 ## Project File
 
